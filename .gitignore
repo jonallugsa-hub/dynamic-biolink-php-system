@@ -1,0 +1,17 @@
+# ES: Archivos sensibles
+# EN: Sensitive files
+db.php
+.env
+
+# ES: Archivos del sistema
+# EN: System files
+.DS_Store
+Thumbs.db
+
+# ES: Logs
+# EN: Logs
+*.log
+
+# ES: Archivos temporales
+# EN: Temp files
+*.tmp
