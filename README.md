@@ -76,7 +76,7 @@ dynamic-biolink-php-system/
 
 ### EN
 
-git clone https://github.com/your-username/dynamic-biolink-php-system.git
+git clone https://github.com/jonallugsa-hub/dynamic-biolink-php-system
 
 1. Move project to local server (XAMPP / WAMP / Laragon)  
 2. Create a MySQL database: biolink_demo  
@@ -89,7 +89,7 @@ git clone https://github.com/your-username/dynamic-biolink-php-system.git
 
 ### ES
 
-git clone https://github.com/your-username/dynamic-biolink-php-system.git  
+git clone https://github.com/jonallugsa-hub/dynamic-biolink-php-system.git 
 
 1. Mueve el proyecto a tu servidor local (XAMPP / WAMP / Laragon)  
 2. Crea una base de datos MySQL: biolink_demo  
