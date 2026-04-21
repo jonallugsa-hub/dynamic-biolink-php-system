@@ -40,7 +40,6 @@ Sistema de enlaces tipo BioLink desarrollado en **PHP + MySQL**, diseñado para 
 
 ## 📂 Project Structure | Estructura del Proyecto
 
-
 dynamic-biolink-php-system/
 
 ├── index.php              # Main dynamic page  
@@ -70,7 +69,6 @@ dynamic-biolink-php-system/
 
 ├── .gitignore  
 └── README.md  
-
 
 ---
 
