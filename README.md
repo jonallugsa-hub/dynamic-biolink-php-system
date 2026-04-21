@@ -42,33 +42,34 @@ Sistema de enlaces tipo BioLink desarrollado en **PHP + MySQL**, diseñado para 
 
 
 dynamic-biolink-php-system/
-├── index.php # Main dynamic page
-├── vcf.php # vCard generator
-├── db.php # Database connection (local use)
-├── db.example.php # Example config (safe template)
-├── .htaccess # URL rewriting
-│
-├── css/
-│ └── style.css
-│
-├── js/
-│ ├── email.js
-│ └── carousel.js
-│
-├── img/ # Icons & images
-│ ├── default.png
-│ ├── wpp.png
-│ ├── gmail.png
-│ └── redes.png
-│
-├── video/ # Optional background video
-│
-├── database/
-│ ├── schema.sql # Database structure
-│ └── seed.sql # Demo data
-│
-├── .gitignore
-└── README.md
+
+├── index.php              # Main dynamic page  
+├── vcf.php                # vCard generator  
+├── db.php                 # Database connection (local use)  
+├── db.example.php         # Example config (safe template)  
+├── .htaccess              # URL rewriting  
+
+├── css/  
+│   └── style.css  
+
+├── js/  
+│   ├── email.js  
+│   └── carousel.js  
+
+├── img/                   # Icons & images  
+│   ├── default.png  
+│   ├── wpp.png  
+│   ├── gmail.png  
+│   └── redes.png  
+
+├── video/                 # Optional background video  
+
+├── database/  
+│   ├── schema.sql         # Database structure  
+│   └── seed.sql           # Demo data  
+
+├── .gitignore  
+└── README.md  
 
 
 ---
