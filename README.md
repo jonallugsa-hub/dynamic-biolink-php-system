@@ -48,11 +48,13 @@ Sistema dinámico de enlaces tipo BioLink desarrollado en PHP y MySQL, diseñado
 ## 📂 Project Structure | Estructura del Proyecto
 
 ```
-biolink/
+dynamic-biolink-php-system/
 ├── index.php        # Main dynamic page
 ├── vcf.php          # vCard generator
 ├── db.php           # Database connection (demo)
+├── db.example.php   
 ├── .htaccess        # URL rewriting
+│
 ├── css/
 │   └── style.css
 ├── js/
@@ -60,6 +62,11 @@ biolink/
 │   └── carousel.js
 ├── img/             # Icons & images
 ├── video/           # Optional background video
+├── database/
+│   ├── schema.sql
+│   └── seed.sql
+│
+├── .gitignore
 └── README.md
 ```
 
