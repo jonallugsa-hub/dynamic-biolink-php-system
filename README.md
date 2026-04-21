@@ -1,2 +1,2 @@
 # dynamic-biolink-php-system
-Dynamic technician profile system with database integration, WhatsApp and email connectivity | Sistema dinámico de perfiles de técnicos con integración a base de datos, WhatsApp y correo
+PHP-based dynamic bio link system with MySQL, multi-channel contact integration (WhatsApp, email, social media) | Sistema bio link dinámico en PHP con MySQL e integración de múltiples canales
